@@ -1,0 +1,7 @@
+id=no-headphone-warning
+name=No Headphone Warning
+version=1.0.0
+versionCode=100
+author=MrRaita
+sponsor=
+description=Disables Android safe headphone volume warnings and safe-volume enforcement. KernelSU/APatch compatible systemless property module.

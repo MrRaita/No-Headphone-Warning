@@ -1,0 +1,8 @@
+# Bypass Android's index-based safe headphone volume limiter.
+audio.safemedia.bypass=true
+
+# Do not force the legacy safe-media warning system on.
+audio.safemedia.force=false
+
+# Do not force Android's Continuous Sound Dose (CSD) warnings on.
+audio.safemedia.csd.force=false
